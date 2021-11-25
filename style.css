@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+}
+a:hover{
+    color:palevioletred;
+}
+h1{
+    color:white;
+    vertical-align: bottom;
+    padding-top: 150px;
+    padding-left: 1%;
+}
+h2{
+    color:palevioletred;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    line-height: 20px;
+}
+
+.first{
+    margin:0px;
+    height: 190px;
+    width: 100%;
+    background-image: url(wall.jpg);
+    background-size: cover;
+}
+.second{
+    background-color: rgb(83, 83, 83);
+    padding: 1% 1% 2% 1% ;
+}
+.third{
+    margin:2%;
+}
+
